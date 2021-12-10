@@ -1,4 +1,5 @@
 # Docker file for individual assigment 4
+# Author: Dongxiao Li
 
 FROM jupyter/scipy-notebook
 RUN apt-get update 
